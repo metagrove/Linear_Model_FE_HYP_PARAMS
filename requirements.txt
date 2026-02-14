@@ -1,0 +1,14 @@
+# numpy
+# pandas
+# matplotlib
+# seaborn
+# scikit-learn
+
+fastapi 
+uvicorn 
+scikit-learn 
+numpy 
+pandas 
+pydantic 
+pytest
+Flask
