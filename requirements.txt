@@ -12,3 +12,4 @@ pandas
 pydantic 
 pytest
 Flask
+gunicorn
